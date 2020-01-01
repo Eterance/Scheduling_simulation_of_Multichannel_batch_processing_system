@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace 存储管理
+namespace 多道批处理系统的两级调度_1
 {
     static class Program
     {
